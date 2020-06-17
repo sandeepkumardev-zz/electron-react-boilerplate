@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Usage
 1. Clone this repository.
 ```
-git clone https://github.com/sandy-ji-code/electron-react-biolerplate.git <your-project-name>
+git clone https://github.com/sandy-ji-code/electron-react-boilerplate.git <your-project-name>
 ```
 2. If you havent already, install Yarn globally.
 ```
